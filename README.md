@@ -1,4 +1,8 @@
-# Мост «ИТД → Firebase» — установка на постоянный хостинг
+# Мост «ИТД → Firebase»
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/moidpugedshan/itd-bridge)
+
+**Быстрый деплой: жми кнопку выше → Sign in with GitHub → Create Resources → жди 2 минуты → получишь постоянный адрес.**
 
 Этот сервер связывает модифицированное приложение ИТД с твоей базой
 Firebase Realtime DB (`coolchel-bf775`). Один раз развернёшь — и адрес
