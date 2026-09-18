@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: itd-bridge
+    runtime: node
+    plan: free
+    buildCommand: "true"
+    startCommand: node server.js
+    envVars:
+      - key: FIREBASE_DB
+        value: coolchel-bf775-default-rtdb.firebaseio.com
